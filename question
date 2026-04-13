@@ -1,2 +1,13 @@
-hi
-hiii
+For the program - Student Performance Analytics System (Enter multiple subject marks for CAT
+(30M), Assignment(20M), FAT (50M), Calculate Total Marks, Compute GPA/CGPA, identify
+toppers (out of five student entries), and provide performance insights in terms of grades)
+• Create a GitHub repository for a Maven-based application following the standard Maven
+directory structure [10]
+• Clone this repository into VS Code, make the necessary code modifications, and commit the
+changes back to the Git repository [10]
+• Build and verify the application within VS Code to ensure it is compatible with Jenkins
+integration [10]
+• Finally, set up a Pipeline project in Jenkins and execute the CI/CD process by writing and
+running the required pipeline script [20]
+
+mail ledu git lone pettu
